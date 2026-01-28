@@ -5,7 +5,21 @@
 👋 Hello, I'm Ahmad Fraz
 Data Science & AI Engineering Student | Machine Learning | Cloud Development | Data Analytics
 📍 Based in Pakistan | 🎓 B.S. Data Science at GIK Institute
+## 📈 GitHub Stats
 
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadfraz&show_icons=true&theme=radical&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfraz&layout=compact&theme=radical)
+
+## 📊 Weekly Development Breakdown
+
+```mermaid
+pie title Weekly Development Time
+    "Machine Learning" : 35
+    "Data Analysis" : 25
+    "Cloud Projects" : 20
+    "Web Development" : 15
+    "Learning" : 5
 Welcome to my GitHub profile! I'm a passionate and driven Data Science student with hands-on experience in building machine learning models, developing cloud-native applications, and transforming complex data into actionable insights. I thrive at the intersection of data, AI, and software engineering, and I'm always eager to take on challenging projects that solve real-world problems.
 
 🛠️ Technical Skills
