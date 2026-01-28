@@ -168,3 +168,9 @@ LinkedIn: https://www.linkedin.com/in/ahmedfrazalvi/
 Portfolio: (Add your portfolio link here)
 
 Resume: Download PDF
+
+"Data is not just a collection of numbers, but a story waiting to be told. I'm passionate about uncovering those stories and building systems that turn insights into impact."
+
+Open to collaborations on: Machine Learning projects, Data Engineering pipelines, Open-source contributions, Research publications, Hackathons, and Internship opportunities.
+
+⭐ Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or discuss data science!
