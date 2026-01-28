@@ -5,21 +5,7 @@
 👋 Hello, I'm Ahmad Fraz
 Data Science & AI Engineering Student | Machine Learning | Cloud Development | Data Analytics
 📍 Based in Pakistan | 🎓 B.S. Data Science at GIK Institute
-## 📈 GitHub Stats
 
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadfraz&show_icons=true&theme=radical&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfraz&layout=compact&theme=radical)
-
-## 📊 Weekly Development Breakdown
-
-```mermaid
-pie title Weekly Development Time
-    "Machine Learning" : 35
-    "Data Analysis" : 25
-    "Cloud Projects" : 20
-    "Web Development" : 15
-    "Learning" : 5
 Welcome to my GitHub profile! I'm a passionate and driven Data Science student with hands-on experience in building machine learning models, developing cloud-native applications, and transforming complex data into actionable insights. I thrive at the intersection of data, AI, and software engineering, and I'm always eager to take on challenging projects that solve real-world problems.
 
 🛠️ Technical Skills
@@ -190,5 +176,20 @@ Resume: Download PDF
 "Data is not just a collection of numbers, but a story waiting to be told. I'm passionate about uncovering those stories and building systems that turn insights into impact."
 
 Open to collaborations on: Machine Learning projects, Data Engineering pipelines, Open-source contributions, Research publications, Hackathons, and Internship opportunities.
-
 ⭐ Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or discuss data science!
+
+## 📈 GitHub Stats
+
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadfraz&show_icons=true&theme=radical&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfraz&layout=compact&theme=radical)
+
+## 📊 Weekly Development Breakdown
+
+```mermaid
+pie title Weekly Development Time
+    "Machine Learning" : 35
+    "Data Analysis" : 25
+    "Cloud Projects" : 20
+    "Web Development" : 15
+    "Learning" : 5
